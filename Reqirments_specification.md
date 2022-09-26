@@ -19,7 +19,7 @@ The project name is : NewsPaper using HTML and CSS and PHP.
 Purpose
 
 The purpose of the project is to make a website that will let the user create an account.
-
+We chose Visual Studio Code"VSC" as a text editor or an IDE to use and make our project because it's simple and straightforward to work on. 
 
 
 ## User Needs
