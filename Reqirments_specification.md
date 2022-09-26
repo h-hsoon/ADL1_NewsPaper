@@ -31,3 +31,5 @@ To use this web page, user needs to find the web page in any browser by using th
 For this project we will use HTML and CSS and PHP for the front in , basically for create a web page , for every problem ,we meet ,we will try to find good solution for it ,we will try to use good technology, such as visual studio code ,and some other compiler would also be fine for us. css and html will be the main languages we use.
 
 ## Goal
+
+one of the most important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
