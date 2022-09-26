@@ -44,5 +44,6 @@ HTML : The HyperText Markup Language, or HTML is the standard markup language fo
 
 CSS : is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
+PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
 
 
