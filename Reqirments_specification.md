@@ -20,6 +20,7 @@ Purpose
 
 The purpose of the project is to make a website that will let the user create an account.
 We chose Visual Studio Code"VSC" as a text editor or an IDE to use and make our project because it's simple and straightforward to work on. 
+Our web application can let the user create his/her own account and have access to the index page where the main content will be setted up on.
 
 
 ## User Needs
