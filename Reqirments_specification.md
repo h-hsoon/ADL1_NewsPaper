@@ -33,3 +33,6 @@ For this project we will use HTML and CSS and PHP for the front in , basically f
 ## Goal
 
 one of the most important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
+
+
+## Glossary
