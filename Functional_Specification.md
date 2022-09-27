@@ -25,7 +25,8 @@ sign up - The sign up function add user information to database.
 
 # UI Plan
 The interface will be a not so complicated one, a simple login screen and logout and sign up and Search and a dashboard that will have buttons such as;
-About, Contact Us.a bit of explanation about web designing.our user can simply click these buttons and the website will give reaction, 
+About, Contact Us.a bit of explanation about web designing.our user can simply click these buttons and the website will give reaction,this website is a total static website so there is no many user interface.
+
 # How the system should be and what it should not be?  
 The system should be as simple as we can make it so that the user can easily use it,otherwise,it shouldn't be broken at any point,always working properly(maintenance) which means we should maintain our application to work properly and if any error shows up we have to catch it(for example : try,catch exception).
 Data requirements must be accurate, reliable and true. When you make an action request, such as finding, deleting, modifying, and adding, you should ensure that the input data matches the database data. When meeting the user's request, the system should ensure that the data in response to the inspection rate and accuracy rate.
