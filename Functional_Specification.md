@@ -17,6 +17,9 @@ User will be able to see the available pages which has the newspaper without reg
  to have full access to the newspaper the user will need to register through the signup button or Join us button. 
  And after their login,they can do anything in this website ,they will get the total right to read this website,this is only a static website and nothing is dynamic,and user may still log out.
 # List Of Requirements
+
+1-Search - The search function get the information from database according to the Data inputed.
+
 # UI Plan
 # How the system should be and what it should not be?  
 The system should be as simple as we can make it so that the user can easily use it,otherwise,it shouldn't be broken at any point,always working properly(maintenance) which means we should maintain our application to work properly and if any error shows up we have to catch it(for example : try,catch exception).
