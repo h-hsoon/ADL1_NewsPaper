@@ -18,7 +18,9 @@ User will be able to see the available pages which has the newspaper without reg
  And after their login,they can do anything in this website ,they will get the total right to read this website,this is only a static website and nothing is dynamic,and user may still log out.
 # List Of Requirements
 
-1-Search - The search function get the information from database according to the Data inputed.
+Search - The search function get the information from database according to the Data inputed.
+login - The login function let user login according to information from database.
+
 
 # UI Plan
 # How the system should be and what it should not be?  
