@@ -17,6 +17,7 @@ We have agreed to develop a website for newspapers  . The website will have a si
 # How the system should be and what it should not be?  
 
 ## Goal
+one of the most important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
 
 # Constrains:
 # REPORTS
