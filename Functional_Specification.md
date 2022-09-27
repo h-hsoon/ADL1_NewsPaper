@@ -15,6 +15,7 @@ We have agreed to develop a website for newspapers  . The website will have a si
 
 User will be able to see the available pages which has the newspaper without registration and that can be done by the search engine
  to have full access to the newspaper the user will need to register through the signup button or Join us button. 
+ And after their login,they can do anything in this website ,they will get the total right to read this website,this is only a static website and nothing is dynamic,and user may still log out.
 # List Of Requirements
 # UI Plan
 # How the system should be and what it should not be?  
