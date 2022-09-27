@@ -15,5 +15,8 @@ We have agreed to develop a website for newspapers  . The website will have a si
 # List Of Requirements
 # UI Plan
 # How the system should be and what it should not be?  
+
+## Goal
+
 # Constrains:
 # REPORTS
