@@ -20,7 +20,8 @@ User will be able to see the available pages which has the newspaper without reg
 
 Search - The search function get the information from database according to the Data inputed.
 login - The login function let user login according to information from database.
-
+logout - The login function let user logout.
+sign up - The sign up function add user information to database.
 
 # UI Plan
 # How the system should be and what it should not be?  
