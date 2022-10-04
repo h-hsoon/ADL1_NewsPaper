@@ -43,4 +43,6 @@ one of the most important goal is to get use to work in a project by being a par
       The running environment : Microsoft Visual Studio.
        The operating system : Microsoft Windows 10.
        the programming language, databases;
+       coding standards;
+       business logic, etc.
 # REPORTS
