@@ -45,4 +45,5 @@ one of the most important goal is to get use to work in a project by being a par
        the programming language, databases;
        coding standards;
        business logic, etc.
+       the programming language, HTML,CSS,PHP.
 # REPORTS
