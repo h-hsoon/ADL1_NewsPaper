@@ -48,6 +48,10 @@ PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language gea
 
 ## Other Requirements
    In this project we will be mainly working on these things.
+   
    Performance : how the app reacts to the user’s requests.
+   
+   Safety: try our best to avoid safety problem,like overflow.
+
 
 
