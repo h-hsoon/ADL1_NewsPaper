@@ -46,7 +46,7 @@ CSS : is a style sheet language used for describing the presentation of a docume
 
 PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
 
-## Other Requirements
+## Other Requirements 
    In this project we will be mainly working on these things.
    
    Performance : how the app reacts to the user’s requests.
@@ -58,3 +58,7 @@ PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language gea
    Quality: this app should have good UI ,and high efficiency.
    
    Availability : how the app operates and functions.
+   
+ ##  Functional Requirements
+ Login button - by clicking this button the web sit will take you to your page. 
+
