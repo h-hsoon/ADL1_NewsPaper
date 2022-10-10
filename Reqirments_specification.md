@@ -60,5 +60,7 @@ PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language gea
    Availability : how the app operates and functions.
    
  ##  Functional Requirements
- Login button - by clicking this button the web sit will take you to your page. 
+ Login button - by clicking this button the web sit will take you to your page.
+ 
+ Search button - this function will work to find the available course that the user searched for. 
 
