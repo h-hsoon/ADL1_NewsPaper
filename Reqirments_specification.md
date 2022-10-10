@@ -55,6 +55,6 @@ PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language gea
    
    Security : the way the app protects information.
 
-
+   Quality: this app should have good UI ,and high efficiency.
 
 
