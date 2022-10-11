@@ -47,3 +47,40 @@ one of the most important goal is to get use to work in a project by being a par
        business logic, etc.
        the programming language, HTML,CSS,PHP.
 # REPORTS
+• REPORT MODULE
+The log in issued should have the details such as username ,gmail,
+cours name, time of departure. 
+ * COURS DETAILS
+ * CHECK AVAILABILITY
+ * REGISTER FOR COURS
+ * EXIT
+<H4>List Of Requirements: </H4>
+<table> 
+  <tr>
+    <th>Requirement number</th>
+    <th>Requirement title</th> 
+    <th>Requirement description</th>
+</tr>
+<tr>
+    <th>N01</th>
+    <th>Search</th>
+  <th>The search function get the information from database according to the Data inputed.</th>
+</tr>
+<tr>
+    <th>N02</th>
+    <th>login</th>
+  <th>The login function let user login according to information from database.</th>
+</tr>
+  <tr>
+    <th>N03</th>
+    <th>logout</th>
+  <th> The login function let user login according to information from database.</th>
+    <tr>
+    <th>N04</th>
+    <th>sign up </th>
+    <th> The sign up function add user information to database.</th>
+      <tr>
+      <th>N05</th>
+    <th>Contact</th>
+  <th>the user can contact us</th>
+</tr>
