@@ -19,3 +19,7 @@ Web page design and production is one of the basic skills that need to be master
 10. Request List  
 11. Glossary
 12. Other requirements
+
+__Project name__
+
+The project name is : **NewsPaper App**
