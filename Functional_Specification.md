@@ -40,11 +40,15 @@ one of the most important goal is to get use to work in a project by being a par
 
 # Constrains:
    Design Constraints imposes limitations on the following things:
+   
    The running environment : Microsoft Visual Studio.
+   
    The operating system : Microsoft Windows 10.
-   the programming language, databases,
+   
+   The programming language, databases,
    coding standards,business logic, etc.
-   the programming language, HTML,CSS,PHP.
+   
+   The programming language, HTML,CSS,PHP.
 # REPORTS
 • REPORT MODULE
 The log in issued should have the details such as username ,gmail,
