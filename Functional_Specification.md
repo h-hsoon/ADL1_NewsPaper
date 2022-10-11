@@ -39,13 +39,12 @@ one of the most important goal is to get use to work in a project by being a par
  We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be an easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 # Constrains:
-      Design Constraints imposes limitations on the following things:
-      The running environment : Microsoft Visual Studio.
-       The operating system : Microsoft Windows 10.
-       the programming language, databases;
-       coding standards;
-       business logic, etc.
-       the programming language, HTML,CSS,PHP.
+   Design Constraints imposes limitations on the following things:
+   The running environment : Microsoft Visual Studio.
+   The operating system : Microsoft Windows 10.
+   the programming language, databases,
+   coding standards,business logic, etc.
+   the programming language, HTML,CSS,PHP.
 # REPORTS
 • REPORT MODULE
 The log in issued should have the details such as username ,gmail,
