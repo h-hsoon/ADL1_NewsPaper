@@ -19,3 +19,8 @@ body{
     line-height: 60px ; 
 }
 
+.menu li {
+    float: left ;
+    background: rgba(0,0,0,.8) ; 
+
+}
