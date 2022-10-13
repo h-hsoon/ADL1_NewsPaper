@@ -34,3 +34,10 @@ body{
     font-family: sans-serif ;
     letter-spacing: 0.5px ;
 }
+    .menu li a:hover{
+    color: #fff;
+    color: orange;
+    opacity:calc(100%);
+    font-size: 19px ;
+}
+
