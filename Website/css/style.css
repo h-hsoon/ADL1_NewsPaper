@@ -7,3 +7,8 @@ body{
     background-size: cover;
 }
 
+.menu{
+    width: 100% ;
+    background: rgba(0,0,0,.8) ;
+    overflow:auto;
+}
