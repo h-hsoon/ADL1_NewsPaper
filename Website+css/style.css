@@ -53,3 +53,15 @@ input[type=text]{
     font-family: sans-serif;
     
 }
+button{
+    float: right ;
+    background: orange;
+    color: white ;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    position: relative;
+    padding: 7px;
+    font-family: sans-serif;
+    border: none;
+    font-size: 16px;
+}
