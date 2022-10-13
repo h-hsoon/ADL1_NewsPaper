@@ -20,6 +20,6 @@
                 
             </div>
             <input type="submit" name="" value="Submit">
-            <a href="##">I do have an account</a>
+            <a href="login.php">I do have an account</a>
         </form>
     </div>

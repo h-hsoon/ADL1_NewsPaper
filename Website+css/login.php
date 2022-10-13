@@ -15,6 +15,6 @@
                 
             </div>
             <input type="submit" name="" value="Submit">
-            <a href="##">I do not have an account</a>
+            <a href="register.php">I do not have an account</a>
         </form>
     </div>
