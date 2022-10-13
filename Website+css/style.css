@@ -84,3 +84,10 @@ button{
     border-radius: 10px ;
 
 }
+.box .image{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: rgb(17, 16, 17);
+    
+
+}
