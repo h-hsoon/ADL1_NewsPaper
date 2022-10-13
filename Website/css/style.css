@@ -41,3 +41,8 @@ body{
     font-size: 19px ;
 }
 
+.search-form{
+    margin-top: 15px ;
+    float: right ;
+    margin-right: 100px;
+}
