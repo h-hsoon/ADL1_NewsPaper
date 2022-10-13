@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>Longin</title>
-        <link rel="stylesheet" type="text/css" href="\test\css\style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 <body>
     <header>

@@ -67,11 +67,12 @@ button{
     font-size: 16px;
 }
 /*about us div */
-/*.box .about_us{
+.about_us{
     color: white;
     text-align: center;
-    font-size: large;
-}*/
+    
+}
+
 .box{
     position: absolute;
     top: 50%;
@@ -93,7 +94,7 @@ button{
 
 }
 .box h2{
-    color: rgb(241, 10, 10);
+    color: rgb(255, 255, 255);
     margin: 0 0 30px;
     padding: 0;
     text-align: center;
@@ -152,6 +153,6 @@ button{
     list-style: none;
     text-decoration: none ;
     color: white;
-    margin-left: 300px;
+    margin-left: 60px;
 
 }
