@@ -98,4 +98,6 @@ button{
     text-align: center;
       
 }
-
+.box .inputBox{
+    position: relative ;
+}
