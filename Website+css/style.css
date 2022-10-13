@@ -53,6 +53,7 @@ input[type=text]{
     font-family: sans-serif;
     
 }
+/*the search button*/
 button{
     float: right ;
     background: orange;
@@ -66,11 +67,11 @@ button{
     font-size: 16px;
 }
 /*about us div */
-.box .about_us{
+/*.box .about_us{
     color: white;
     text-align: center;
     font-size: large;
-}
+}*/
 .box{
     position: absolute;
     top: 50%;
@@ -152,6 +153,5 @@ button{
     text-decoration: none ;
     color: white;
     margin-left: 300px;
-
 
 }
