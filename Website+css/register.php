@@ -20,7 +20,7 @@
                 <label for = "password">Confirm Password</label>
                 
             </div>
-            <input type="submit" name="" value="Submit">
+            <input type="submit" name="register" value="Submit">
             <a href="login.php">I do have an account</a>
         </form>
     </div>
