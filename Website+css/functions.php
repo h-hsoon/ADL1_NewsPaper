@@ -24,7 +24,6 @@ if(isset($_POST['register'])){
 
     $users_check_query = "SELECT * FROM users WHERE user_name = '$username' LIMIT 1";
     $results = mysqli_query($db, $users_check_query);
-    $users = $mysqli_fetch_assoc($result);
 
     if($users){
        if($users['username'] === $username) array_push($errors, "Username already exists");
@@ -37,8 +36,6 @@ if(isset($_POST['register'])){
         mysqli_query($db, $query);
         $_SESSION['username'] = $username;
         $_SESSION['success'] = "You have been registered, mortal";
-
-        echo "sus";
 
         header('location: homepage.php');
     }
