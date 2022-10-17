@@ -11,11 +11,11 @@
              <label>Username</label>
             </div>
             <div class="inputBox" >
-                <input type="password" name="password_1" required>
+                <input type="password" name="password" required>
                 <label>Password</label>
                 
             </div>
-            <input type="submit" name="" value="Submit">
+            <input type="submit" name="login_users" value="Submit">
             <a href="register.php">I do not have an account</a>
         </form>
     </div>
