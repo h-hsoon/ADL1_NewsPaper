@@ -70,4 +70,63 @@ if(count($errors) == 0){
 }
 }
 
+if(isset($_POST['login_users'])){
+    $username = mysqli_real_escape_string($db, $_POST['username']);
+    $password = mysqli_real_escape_string($db, $_POST['password']);
+    
+    if(empty($username)){
+        array_push($errors, "Username is required");
+    }
+    
+    if(empty($password)){
+        array_push($errors, "Password is required");
+    }
+    
+    if(count($errors) == 0){
+        $password = md5($password);
+        $query = "SELECT * FROM users WHERE user_name = '$username' AND password = '$password' ";
+        $results = mysqli_query($db, $query);
+    
+        if (mysqli_num_rows($results)){
+            $_SESSION['username'] = $username;
+            $_SESSION['success'] = "You are now logged in";
+            header('location: homepage.php');
+        } else {
+            array_push($errors, "Wrong username or password. Try again");
+        }
+    }
+    }
+
+    if(isset($_POST['create_news'])){
+        $title = mysqli_real_escape_string($db, $_POST['title']);
+        $content = mysqli_real_escape_string($db, $_POST['contentOnThePage']);
+        $category = mysqli_real_escape_string($db, $_POST['categoryOnThePage']);
+        $image = mysqli_real_escape_string($db, $_POST['image']);
+        
+        if(empty($title)){
+            array_push($errors, "Title is required");
+        }
+        
+        if(empty($content)){
+            array_push($errors, "Content is required");
+        }
+
+        if(empty($category)){
+            array_push($errors, "Category is required");
+        }
+        
+        if(count($errors) == 0){
+            $query = "SELECT * FROM news WHERE category = '$category' AND content = '$content' ";
+            $results = mysqli_query($db, $query);
+        
+            if (mysqli_num_rows($results)){
+                $_SESSION['contentOnThePage'] = $content;
+                $_SESSION['success'] = "You have created an article";
+                header('location: This_is_a_placeholder_brother_change_it.php');
+            } else {
+                array_push($errors, "Something didn't work out, pal. Try making another one");
+            }
+        }
+        }
+
 ?>
