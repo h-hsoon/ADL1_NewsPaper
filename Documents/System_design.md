@@ -20,7 +20,8 @@ The team is using html to develop a web page where users can log in and register
 one of the most important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com,and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moment's notice, giving us the important skills we need to work in this volatile world where technology is constantly changing and getting better,and make the life of user and admin easier.We want to make sure this application is not all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success.We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be an easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 ## Context
-Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the functionality in the second month.
+Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the functionality in the second month.any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels.
+
 
 
 
