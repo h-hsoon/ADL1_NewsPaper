@@ -52,5 +52,8 @@ By using classes and id we can divide the work into neat bundles of code which o
 The work should use simple functionality that will make code neater throughout the entire project so the project will be a very simple one.
 
 
+  # Functionality:
+First page will have a well designed registration system page.
+After which the user will be redirected to their supposed forms, I.e the admin will be directed to the users management form and the user will be taken to the booking flight form where they can fill up the information required.
 
 
