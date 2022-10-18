@@ -12,6 +12,15 @@ function db_connection()
     return $db;
 }
 
+function debug_to_console($data)
+{
+    $output = $data;
+    if (is_array($output))
+        $output = implode(',', $output);
+
+    echo "<script>console.log('Debug Objects: " . $output . "' );</script>";
+}
+
 //register users
 if (isset($_POST['register'])) {
     $username = mysqli_real_escape_string($db, $_POST['username']);
