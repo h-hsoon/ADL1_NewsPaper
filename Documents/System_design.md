@@ -108,4 +108,4 @@ For the success of this system we will rely mostly on peer programming to minimi
 a user-friendly system that does not discriminate against gender, race, age, ethnic group and so on so our design 
 will be highly maintained by allowing users to send emails should they wish to make comments or complaints about the design.
 
-![app](\image\User_Case NewsPaper.jpg)
+![](\image\User_Case NewsPaper.jpg)
