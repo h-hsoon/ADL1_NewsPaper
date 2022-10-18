@@ -6,7 +6,11 @@ $username = '';
 $errors = array();
 
 //connect to database
-$db = new mysqli('localhost', 'root', '', 'adl1_newspaper') or die("couldn't connect");
+function db_connection()
+{
+    $db = new mysqli('localhost', 'root', '', 'adl1_newspaper') or die("couldn't connect");
+    return $db;
+}
 
 //register users
 if (isset($_POST['register'])) {
