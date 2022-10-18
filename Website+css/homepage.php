@@ -3,7 +3,7 @@
 <?php
 $db = db_connection();
 $newsTable = "news";
-$newsColumns = ['news_id', 'title', 'category', 'content', 'image'];
+$newsColumns = ['news_id', 'title', 'category', 'content', 'image', 'toNewsLink'];
 $fetchData = fetch_data($db, $newsTable, $newsColumns);
 
 function fetch_data($db, $newsTable, $newsColumns)
@@ -50,9 +50,12 @@ function fetch_data($db, $newsTable, $newsColumns)
           foreach ($fetchData as $data) {
         ?>
             <div class="card">
-              <div class="image">
-                <img src="<?php echo $data['image'] ?? ''; ?>" />
-              </div>
+              <?php if ((!empty($data['image']))) {
+              ?>
+                <div class="image">
+                  <img src="<?php echo $data['image'] ?? ''; ?>" />
+                </div>
+              <?php } ?>
               <div class="card-inner">
                 <div class="header">
                   <h class="h2 font-weight-light PostTitle"><?php echo $data['title'] ?? ''; ?></h>
@@ -63,12 +66,14 @@ function fetch_data($db, $newsTable, $newsColumns)
                     <p id="PostDescription"><?php echo $data['content'] ?? ''; ?></p>
                     <div id="ReadMore">
                       <ul class="newsCardButton">
-                        <?php if ((!empty($data['gitHubLink'])) && (!empty($data['Content']))) {
+                        <?php if ((!empty($data['toNewsLink']))) {
                         ?>
-                          <li><a href="#">
-                              <button class="btn toNewsButton">Story
-                              </button>
-                            </a></li>
+                          <li>
+                            <a href="#">
+                              <button class="btn toNewsButton">Story</button>
+                            </a>
+
+                          </li>
                         <?php } ?>
                       </ul>
                     </div>
