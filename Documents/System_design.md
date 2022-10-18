@@ -100,5 +100,10 @@ we would like to welcome any suggestion that can improve our working environment
 ## Maintenance plan
 The reservation system has to be evaluated regularly in order to assess whether the existing one is still useful or a new reservation system will be needed,
 by this we remove the existing errors as well as the enhancement of the currently used reservation system. 
-It is an important stage since it greatly affects the cost that has to be incurred by the Airline Ticket Reservation System whether modification can still be done or entirely new reservation system is required.
+It is an important stage since it greatly affects the cost that has to be incurred by the Airline Ticket Reservation System whether modification can still
+be done or entirely new reservation system is required.
 
+## Summary
+For the success of this system we will rely mostly on peer programming to minimize the errors that programmers may have. Our main focus will be on creating 
+a user-friendly system that does not discriminate against gender, race, age, ethnic group and so on so our design 
+will be highly maintained by allowing users to send emails should they wish to make comments or complaints about the design.
