@@ -194,21 +194,22 @@ button {
 
 .image img {
     width: 100%;
+    height: 88vh;
+    max-height: 100vh;
+    min-width: 10vw;
+    max-width: 40vw;
+    border-radius: 10px;
 }
 
 .card {
-
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: all 0.2s ease-in-out;
     box-sizing: border-box;
-    margin: 0 auto;
+    margin: 0 auto 2vh auto;
     background-color: rgb(217, 217, 217);
     border-radius: 10px;
     height: fit-content;
     overflow: hidden;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    break-inside: avoid;
     width: 70%;
 }
 
@@ -246,11 +247,6 @@ h3 {
     background-color: rgb(50, 50, 50);
 } */
 
-#ReadMore,
-.toNewsButton:hover {
-    border-color: rgb(50, 50, 50);
-    background-color: rgb(50, 50, 50);
-}
 
 
 .cardScale:hover {
@@ -264,7 +260,6 @@ h3 {
 
 .text-secondary {
     font-size: 15px;
-    margin-left: 5px;
 }
 
 #PostDescription {
@@ -277,7 +272,7 @@ h3 {
     margin: 0;
     float: right;
     border-radius: 6px;
-    background-color: rgb(22, 22, 22);
+    margin: 0 0 2vh 0;
 }
 
 .newsCardButton {
@@ -294,12 +289,14 @@ h3 {
     position: relative;
 }
 
-#ReadMore .toNewsButton:hover {
+#ReadMore.toNewsButton:hover {
     border-color: #a51616;
     border-radius: 6px;
 }
 
 .toNewsButton {
+    background-color:rgba(217, 217, 217, 0.6);
+    color: burlywood;
     cursor: pointer;
 }
 
