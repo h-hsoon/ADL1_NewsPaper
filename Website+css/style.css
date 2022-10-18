@@ -1,63 +1,68 @@
-body{
+body {
     background-image: url(news.jpeg);
- /*ackground: skyblue;*/
-    margin: 0 ;
+    /*ackground: skyblue;*/
+    margin: 0;
     padding: 0;
     font-family: sans-serif;
     background-size: cover;
 }
 
-.menu{
-    width: 100% ;
-    background: rgba(0,0,0,.8) ;
-    overflow:auto;
+.menu {
+    width: 100%;
+    background: rgba(0, 0, 0, .8);
+    overflow: auto;
 }
+
 .menu ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    line-height: 60px ; 
+    line-height: 60px;
 }
 
 .menu li {
-    float: left ;
-    background: rgba(0,0,0,.8) ; 
+    float: left;
+    background: rgba(0, 0, 0, .8);
 
 }
-.menu ul li a{
-    text-decoration: none ;
-    width: 130px ;
-    display: block ;
-    text-align: center ;
-    color: #f2f2f2 ;
-    font-size: 18px ;
-    font-family: sans-serif ;
-    letter-spacing: 0.5px ;
+
+.menu ul li a {
+    text-decoration: none;
+    width: 130px;
+    display: block;
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
 }
-    .menu li a:hover{
+
+.menu li a:hover {
     color: #fff;
     color: orange;
-    opacity:calc(100%);
-    font-size: 19px ;
+    opacity: calc(100%);
+    font-size: 19px;
 }
 
-.search-form{
-    margin-top: 15px ;
-    float: right ;
+.search-form {
+    margin-top: 15px;
+    float: right;
     margin-right: 100px;
 }
-input[type=text]{
+
+input[type=text] {
     padding: 7px;
-    border: none ;
+    border: none;
     font-size: 16px;
     font-family: sans-serif;
-    
+
 }
+
 /*the search button*/
-button{
-    float: right ;
+button {
+    float: right;
     background: orange;
-    color: white ;
+    color: white;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
     position: relative;
@@ -66,58 +71,64 @@ button{
     border: none;
     font-size: 16px;
 }
+
 /*about us div */
-.about_us{
+.about_us {
     color: white;
     text-align: center;
-    
+
 }
 
-.box{
+.box {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     width: 400px;
-   padding: 40px ;
-    background: rgba(0,0,0,.8) ;
+    padding: 40px;
+    background: rgba(0, 0, 0, .8);
     box-sizing: border-box;
-    box-shadow: 0 15px 25px rgba(0,0,0,.5); 
-    border-radius: 10px ;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
 
 }
-.box .image{
+
+.box .image {
     text-align: center;
     margin-bottom: 30px;
     background-color: rgb(17, 16, 17);
-    
+
 
 }
-.box h2{
+
+.box h2 {
     color: rgb(255, 255, 255);
     margin: 0 0 30px;
     padding: 0;
     text-align: center;
-      
+
 }
-.box .inputBox{
-    position: relative ;
+
+.box .inputBox {
+    position: relative;
 }
-.box .inputBox input{
+
+.box .inputBox input {
     width: 100%;
-    padding:  10px 0 ;
-    font-size: 16px;  
+    padding: 10px 0;
+    font-size: 16px;
     color: #fff;
     letter-spacing: 1px;
     margin-bottom: 30px;
     border: none;
     border-bottom: 1px solid orange;
     outline: none;
-    background: transparent ;
-    
-    
+    background: transparent;
+
+
 }
-.box .inputBox label{
+
+.box .inputBox label {
     position: absolute;
     top: 0;
     left: 0;
@@ -127,40 +138,174 @@ button{
     color: #fff;
     pointer-events: none;
     transition: 0.5s;
-    
+
 }
-.box .inputBox input:focus ~ label,
-.box .inputBox input:valid ~ label{
+
+.box .inputBox input:focus~label,
+.box .inputBox input:valid~label {
     top: -18px;
     left: 0;
     color: #03a9f4;
-    font-size: 12px;    
+    font-size: 12px;
 }
-.box input[type="submit"]{
-    
+
+.box input[type="submit"] {
+
     background: transparent;
     border: none;
     outline: none;
     color: #fff;
-    background:  orange;;
-    padding: 10px 20px ;
+    background: orange;
+    ;
+    padding: 10px 20px;
     cursor: pointer;
-    border-radius: 10px ;
-    
-}
-/*I do/not have an account*/
-.box a
-{
-   
-    text-decoration: none ;
-    color: white;
-    margin-left: 50px;
-    
+    border-radius: 10px;
 
 }
-.box a:hover{
+
+/*I do not have an account*/
+.box a {
+
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+
+
+}
+
+.box a:hover {
     color: rgb(255, 255, 255);
     color: orange;
-    opacity:calc(100%);
-    
+    opacity: calc(100%);
+
+}
+
+/* style for cards */
+
+
+.newsContainer {
+    padding: 3vh 0px 6vh;
+}
+
+.card-columns {
+    background-color: #a51616;
+}
+
+
+.image img {
+    width: 100%;
+}
+
+.card {
+
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.2s ease-in-out;
+    box-sizing: border-box;
+    margin: 0 auto;
+    background-color: rgb(217, 217, 217);
+    border-radius: 10px;
+    height: fit-content;
+    overflow: hidden;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    width: 70%;
+}
+
+
+.card>.card-inner {
+    padding: 10px;
+}
+
+.card .header h2,
+h3 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.header .PostTitle {
+    font-size: var(--body-2-xl);
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-top: -0.7rem auto -0.6vh;
+    font-weight: 100;
+}
+
+.card .header {
+    margin-bottom: 5px;
+}
+
+.card img {
+    width: 100%;
+}
+
+
+/* .card:hover {
+    background-color: rgb(50, 50, 50);
+    border-color: rgb(50, 50, 50);
+    background-color: rgb(50, 50, 50);
+} */
+
+#ReadMore,
+.toNewsButton:hover {
+    border-color: rgb(50, 50, 50);
+    background-color: rgb(50, 50, 50);
+}
+
+
+.cardScale:hover {
+    transform: scale(1.08);
+}
+
+.languageColor {
+    width: auto;
+    height: 6px;
+}
+
+.text-secondary {
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+#PostDescription {
+    margin-top: -10px;
+}
+
+
+#ReadMore {
+    vertical-align: middle;
+    margin: 0;
+    float: right;
+    border-radius: 6px;
+    background-color: rgb(22, 22, 22);
+}
+
+.newsCardButton {
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.newsCardButton li {
+    text-decoration: none;
+    margin: 0 10px;
+    position: relative;
+}
+
+#ReadMore .toNewsButton:hover {
+    border-color: #a51616;
+    border-radius: 6px;
+}
+
+.toNewsButton {
+    cursor: pointer;
+}
+
+
+.container .col .table-responsive table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
 }
