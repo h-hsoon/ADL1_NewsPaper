@@ -44,6 +44,12 @@ Since the interface was designed to be as dynamic as possible, the only part of 
 This information can easily be changed by adjusting a single variable in the code,our teammate will do the mainly maintenance and fix bug
 
 
+  # Design:
+The project is a sample web application that allows the users to register in the page. 
+There shall be CSS Reference and CSS Properties that will make the page easier to use and understandable.
+This project will make junior developers increasing his/her knowledge and make them work as a time and also allow them to contribute a lot to the projects development.
+By using classes and id we can divide the work into neat bundles of code which offer a lot of functionality while still being very readable. 
+The work should use simple functionality that will make code neater throughout the entire project so the project will be a very simple one.
 
 
 
