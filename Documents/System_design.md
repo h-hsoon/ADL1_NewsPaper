@@ -36,7 +36,7 @@ The application's design is created via HTML and CSS. The HTML contains wrapper 
 
 
 ## Testing plan
-during test strategy,we need to test every function one by one,including system testing the tester should have the ability to understand customers point of view,then we should test the whole program,the goal is to test the whole program to see what will happen, if anything unexpected occurs ,then we need to fix them.
+during test strategy,we need to test every function one by one,including system testing the tester should have the ability to understand customers point of view,then we should test the whole program,the goal is to test the whole program to see what will happen, if anything unexpected occurs ,then we need to fix them .
 
 
 
