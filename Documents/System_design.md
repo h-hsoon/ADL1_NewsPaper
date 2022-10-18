@@ -72,3 +72,10 @@ the goal is that what basic thing user want from our App, is firstly information
 so we test flight details first and then we upload it and also , and we test database so that user can easily sign up and then can sign in without any trouble,
 for testing the booking system we give wrong information if it gives us ticket so we need to fix it .
 
+
+#### current situation
+As the world gets more and more efficient technology needs to move along with it, 
+and so we have the idea to create an application that will make it very easy for the user to register for now,
+we have decided how the project should look like and we have got a team of 3 people who will be working on it.
+
+
