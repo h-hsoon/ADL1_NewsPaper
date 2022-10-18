@@ -69,7 +69,7 @@ function fetch_data($db, $newsTable, $newsColumns)
                         <?php if ((!empty($data['toNewsLink']))) {
                         ?>
                           <li>
-                            <a href="#">
+                            <a href="<?php echo $data['toNewsLink'] ?? ''; ?>">
                               <button class="btn toNewsButton">Story</button>
                             </a>
 
