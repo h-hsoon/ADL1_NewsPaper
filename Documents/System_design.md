@@ -91,6 +91,10 @@ Contact button - this function will take the user to the contact page.
 
 JoinUs button - this function will take the user to the register for a course page.
 
+## Open Questions
+Any open issues that you aren't sure about, contentious decisions that you'd like readers to weigh in on, 
+suggested future work, and so on. A tongue-in-cheek name for this section is the 'known unknowns'.
+we would like to welcome any suggestion that can improve our working environment and the webpage design.
 
 
 
