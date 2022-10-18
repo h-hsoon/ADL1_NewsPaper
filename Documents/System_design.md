@@ -23,7 +23,7 @@ one of the most important goal is to get use to work in a project by being a par
 Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the functionality in the second month.any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels.
 
 ## Design
-Page planning: Front presentation: home page, about page,search, register, login. home page would contain some description,about page would describe something in detail,register page will help user register in the website
+Page planning: Front presentation: home page, about page,search, register, login. home page would contain some description,about page would describe something in detail,register page will help user register in the website,login page will help user login into this page,and we will use a random database to finish this program.
 
 
 
