@@ -32,7 +32,7 @@ Page planning: Front presentation: home page, about page,search, register, login
 
 ## DataBase Design
 
-![UI plan](./Database_Diagram.pdf "UI plan")
+![UI plan](../image/DB_Design.JPG "UI plan")
 
 ## Architectural plan
 The application's design is created via HTML and CSS. The HTML contains wrapper classes and classes have boxes where user can type username and password into it and there are also some buttons which can share this website to other friends. then we have some taps which show user different topics of other information As it is a static webpage ,you can do fresh which can fresh the whole webpage.
