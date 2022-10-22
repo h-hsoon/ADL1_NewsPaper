@@ -106,6 +106,10 @@ by this we remove the existing errors as well as the enhancement of the currentl
 It is an important stage since it greatly affects the cost that has to be incurred by the Airline Ticket Reservation System whether modification can still
 be done or entirely new reservation system is required.
 
+
+## User Case Diagram
+
+ ![UI plan](../image/User_Case%20NewsPaper.jpg "UI plan")
 ## Summary
 For the success of this system we will rely mostly on peer programming to minimize the errors that programmers may have. Our main focus will be on creating 
 a user-friendly system that does not discriminate against gender, race, age, ethnic group and so on so our design 
