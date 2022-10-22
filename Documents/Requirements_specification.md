@@ -67,5 +67,3 @@ PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language gea
  Sign up button - this function will take the user to the signup page. About button - this function will take the user to the about page.
  
  Contact button - this function will take the user to the contact page. 
-
-
