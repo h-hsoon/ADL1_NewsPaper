@@ -14,12 +14,12 @@
 11. Other requirements
 
 ## Project name
-The project name is : NewsPaper using HTML and CSS and PHP.
+The project name is : NewsPaper.
 
-Purpose
+## Purpose
 
 The purpose of the project is to make a website that will let the user create an account.
-We chose Visual Studio Code"VSC" as a text editor or an IDE to use and make our project because it's simple and straightforward to work on. 
+We chose Visual Studio Code"VSCode" as a text editor or an IDE to use and make our project because it's simple and straight forward to work on. 
 Our web application can let the user create his/her own account and have access to the index page where the main content will be setted up on.
 
 ## Intended audience
@@ -41,38 +41,40 @@ For this project we will use HTML and CSS and PHP for the front in , basically f
 
 ## Goal
 
-one of the most important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
+One of the most important goal is to get used to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
 But our main goal is to learn new technologies and show our ability to change at a moment's notice, giving us the important skills we need to work in this volatile world where technology is constantly changing and getting better,and make the life of user and admin easier.
-We want to make sure this application is not all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success.
+We want to make sure this application is not all about the manipulation (??) but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success.
 We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be an easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 
 ## Glossary
 
-HTML : The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+HTML: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
 
-CSS : is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+CSS: is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-PHP : Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
+PHP: Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
 
 ## Other Requirements 
-   In this project we will be mainly working on these things.
+In this project we will be mainly working on these things.
    
-   Performance : how the app reacts to the user’s requests.
+Performance: how the app reacts to the user’s requests.
    
-   Safety: try our best to avoid safety problem,like overflow.
+Safety: try our best to avoid safety problem,like overflow.
    
-   Security : the way the app protects information.
+Security: the way the app protects information.
 
-   Quality: this app should have good UI ,and high efficiency.
+Quality: this app should have good UI ,and high efficiency.
    
-   Availability : how the app operates and functions.
+Availability: how the app operates and functions.
    
- ##  Functional Requirements
- Login button - by clicking this button the web sit will take you to your page.
+## Functional Requirements
+Login button - by clicking this button the web sit will take you to your page.
  
- Search button - this function will work to find the available course that the user searched for.
+Search button - this function will work to find the available course that the user searched for.
  
- Sign up button - this function will take the user to the signup page. About button - this function will take the user to the about page.
+Sign up button - this function will take the user to the signup page.
+
+About button - this function will take the user to the about page.
  
- Contact button - this function will take the user to the contact page. 
+Contact button - this function will take the user to the contact page. 
