@@ -40,7 +40,10 @@ For this project we will use HTML and CSS and PHP for the front in , basically f
 ## Current business flow model.
 ??
 ## Project outline
-??
+
+This project will make junior developers increasing his/her knowledge and make them work as a team and allow them to contribute a lot to the projects' development.
+
+
 ## Current situation
 ??
 
