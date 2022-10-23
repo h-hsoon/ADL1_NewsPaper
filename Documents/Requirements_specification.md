@@ -24,7 +24,9 @@ Our web application can let the user create his/her own account and have access 
 
 ## Intended audience
 Intended to be used by anyone who is interested in reading news from a e-paper which comes from multiple sources around the world.
+
 The types of news are from different fields for example Sport news ,politic news ,economic news ,science news...
+
 Starting from the user logging on the application to browsing the news then choosing the one they want to read and they will be redirect to source of the news. 
    
 
