@@ -23,7 +23,10 @@ We chose Visual Studio Code"VSCode" as a text editor or an IDE to use and make o
 Our web application can let the user create his/her own account and have access to the index page where the main content will be setted up on.
 
 ## Intended audience
-??
+Intended to be used by anyone who is interested in reading news from a e-paper which comes from multiple sources around the world.
+The types of news are from different fields for example Sport news ,politic news ,economic news ,science news...
+Starting from the user logging on the application to browsing the news then choosing the one they want to read and they will be redirect to source of the news. 
+   
 
 ## User Needs
 To use this web page, user needs to find the web page in any browser by using the name of the page, then the user can see the front of the web page which has a sign up and log in place so in order to register the user need to fill out his/her username which is email and enter password than log in. When a user logs in he/she can see the main page of the web application.
