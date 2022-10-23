@@ -1,4 +1,7 @@
-# Describing the current situation
+# Functional Specification
+
+__Team members__
+
 We, as a team setting up our environment to startup our group project with the following developing members:
 1. Rachid Aifar
 2. Oleg Dragoi
