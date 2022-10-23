@@ -19,7 +19,9 @@ The project name is : NewsPaper.
 ## Purpose
 
 The purpose of the project is to make a website that will let the user create an account.
+
 We chose Visual Studio Code"VSCode" as a text editor or an IDE to use and make our project because it's simple and straight forward to work on. 
+
 Our web application can let the user create his/her own account and have access to the index page where the main content will be setted up on.
 
 ## Intended audience
@@ -31,11 +33,13 @@ Starting from the user logging on the application to browsing the news then choo
    
 
 ## User Needs
-To use this web page, user needs to find the web page in any browser by using the name of the page, then the user can see the front of the web page which has a sign up and log in place so in order to register the user need to fill out his/her username which is email and enter password than log in. When a user logs in he/she can see the main page of the web application.
+To use this web page, user needs to find the web page in any browser by using the name of the page, then the user can see the front of the web page which has a sign up and log in place so in order to register the user need to fill out his/her username which is email and enter password than log in.
+
+When a user logs in he/she can see the main page of the web application.
 
 ## System rules, patterns, recommendations
 
-For this project we will use HTML and CSS and PHP for the front in , basically for create a web page , for every problem ,we meet ,we will try to find good solution for it ,we will try to use good technology, such as visual studio code ,and some other compiler would also be fine for us. css and html will be the main languages we use.
+For this project we will use HTML and CSS and PHP for the front in , basically for create a web page , for every problem ,we meet ,we will try to find good solution for it ,we will try to use good technology, such as visual studio code ,and some other compiler would also be fine for us, css and html will be the main languages we use.
 
 ## Current business flow model.
 ??
@@ -52,8 +56,11 @@ by using classes and id we can divide the work into neat bundles of code which o
 ## Goal
 
 One of the most important goal is to get used to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
+
 But our main goal is to learn new technologies and show our ability to change at a moment's notice, giving us the important skills we need to work in this volatile world where technology is constantly changing and getting better,and make the life of user and admin easier.
-We want to make sure this application is not all about the manipulation (??) but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success.
+
+We want to make sure this application is not all about the manipulation our experience but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success.
+
 We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be an easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 
