@@ -43,6 +43,8 @@ For this project we will use HTML and CSS and PHP for the front in , basically f
 
 This project will make junior developers increasing his/her knowledge and make them work as a team and allow them to contribute a lot to the projects' development.
 
+by using classes and id we can divide the work into neat bundles of code which offer a lot of functionality while still being very readable. The work should use simple functionality that will make code neater throughout the entire project so the project will be a very simple one.
+
 
 ## Current situation
 ??
