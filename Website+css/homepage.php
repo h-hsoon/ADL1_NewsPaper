@@ -70,7 +70,7 @@ function fetch_data($db, $newsTable, $newsColumns)
                         ?>
                           <li>
                             <a href="<?php echo $data['toNewsLink'] ?? ''; ?>">
-                              <button class="btn toNewsButton">Story</button>
+                              <button class="btn toNewsButton">Read More</button>
                             </a>
 
                           </li>
