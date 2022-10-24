@@ -10,7 +10,7 @@ body {
 
 .menu {
     width: 100%;
-    background: rgba(0, 0, 0, .8);
+    background: rgba(0, 0, 0, 1);
     overflow: auto;
 }
 
@@ -64,7 +64,7 @@ button {
     float: right;
     background: orange;
     color: white;
-    border-radius: 0 5px 5px 0;
+    border-radius: 5px;
     cursor: pointer;
     position: relative;
     padding: 7px;
