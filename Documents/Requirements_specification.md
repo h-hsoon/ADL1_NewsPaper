@@ -51,7 +51,13 @@ by using classes and id we can divide the work into neat bundles of code which o
 
 
 ## Current situation
-??
+
+As it is known that advances in technology and the rapid delivery of news to all parts of the world made newspapers made of paper very difficult to read, so we came up with this idea to create a website specialized in publishing news.
+
+We have decided what the project will look like and have a team of 3 people working on it.
+
+We will create a web application using html, css and php with the addition of connecting it to the database.
+
 
 ## Goal
 
