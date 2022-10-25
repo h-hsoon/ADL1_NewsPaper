@@ -6,21 +6,9 @@ $username = '';
 $errors = array();
 
 //connect to database
-function db_connection()
-{
-    $db = new mysqli('localhost', 'root', '', 'adl1_newspaper') or die("couldn't connect");
-    return $db;
-}
 
-function debug_to_console($data)
-{
-    $output = $data;
-    if (is_array($output))
-        $output = implode(',', $output);
 
-    echo "<script>console.log('Debug Objects: " . $output . "' );</script>";
-}
-
+$db = new mysqli('localhost', 'root', '', 'adl1_newspaper') or die("couldn't connect");
 //register users
 if (isset($_POST['register'])) {
     $username = mysqli_real_escape_string($db, $_POST['username']);

@@ -1,7 +1,7 @@
 <?php require_once "header.php"; ?>
 <?php require_once "functions.php"; ?>
 <?php
-$db = db_connection();
+$db = new mysqli('localhost', 'root', '', 'adl1_newspaper') or die("couldn't connect");
 $newsTable = "news";
 $newsColumns = ['news_id', 'title', 'category', 'content', 'image', 'toNewsLink'];
 $fetchData = fetch_data($db, $newsTable, $newsColumns);
