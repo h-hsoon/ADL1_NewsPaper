@@ -15,7 +15,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Signika";
-
     background-size: cover;
 
 }
@@ -24,7 +23,7 @@ body {
 
 .menu {
     width: 100%;
-    background: #00AEAE;
+    background: #000000;
     overflow: auto;
 }
 
@@ -37,7 +36,7 @@ body {
 
 .menu li {
     float: left;
-    background: #00aeae;
+    background: #000000;
 
 }
 
@@ -54,7 +53,7 @@ body {
 
 .menu li a:hover {
     color: #fff;
-    color: #004e4e;
+    color: #4e0000;
     opacity: calc(100%);
     font-size: 19px;
 }
@@ -64,15 +63,6 @@ body {
     float: right;
     margin-right: 100px;
 }
-
-/* input[type=text] {
-    padding: 7px;
-    border: none;
-    font-size: 16px;
-    font-family: sans-serif;
-
-} */
-
 /*the search button*/
 button {
     float: right;
@@ -94,16 +84,16 @@ button {
     border: 0;
     outline: 0;
     color: #C0DCEC;
-    border-bottom: 2px solid #4d8f8f;
+    border-bottom: 2px solid #494949;
     background-color: transparent;
     text-align: center;
 }
 .searchText::placeholder{
-    color: #C0DCEC;
+    color: #c9c9c9;
 }
 
 @keyframes gradecolour {
-    0%   {border-bottom-color: #4d8f8f}
+    0%   {border-bottom-color: #999999}
     100% {border-bottom-color: #7de6e6;}
   }
 
@@ -251,7 +241,7 @@ button {
     transition: all 0.2s ease-in-out;
     box-sizing: border-box;
     margin: 0 auto 2vh auto;
-    background-color: #45B08C;
+    background-color: #000000;
     border-radius: 10px;
     height: fit-content;
     overflow: hidden;
@@ -353,7 +343,7 @@ h3 {
 }
 
 .toNewsButton {
-    background-color: #15998E;
+    background-color: #ff9500;
     color: white;
     cursor: pointer;
 }
