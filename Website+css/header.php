@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Longin</title>
+    <title>Newspaper</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <!--jQuery and Bootstrap Bundle (includes Popper [for tooltip]) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -20,9 +20,8 @@
                 <li><a href="contactus.php">Contact</a></li>
             </ul>
             <form class="search-form">
-
-                <input type="text" placeholder="search">
-                <button>search</button>
+                <input class="searchText" type="text" placeholder="search">
+                <!-- <button>search</button> -->
             </form>
         </nav>
     </header>
