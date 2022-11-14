@@ -67,7 +67,7 @@ We as a team need to work together to make sure that our application can not onl
 
 
 
-## Other Requirements 
+## Non-Functional Requirements
 In this project we will be mainly working on these things.
    
 Performance: how the app reacts to the user’s requests.
