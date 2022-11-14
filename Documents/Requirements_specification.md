@@ -66,13 +66,6 @@ We want to make sure this application is not all about the manipulation our expe
 We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be an easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 
-## Glossary
-
-HTML: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
-
-CSS: is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
-
-PHP: Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
 
 ## Other Requirements 
 In this project we will be mainly working on these things.
