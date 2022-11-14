@@ -41,6 +41,13 @@ a bit of explanation about web designing.our user can simply click these buttons
 
 ![UI plan](../image/UI%20img.JPG "UI plan")
 
+## Glossary
+
+HTML: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+CSS: is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+PHP: Hypertext Preprocessor ,or PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.
 
 # How the system should be and what it should not be?  
 The system should be as simple as we can make it so that the user can easily use it,otherwise,it shouldn't be broken at any point,always working properly(maintenance) which means we should maintain our application to work properly and if any error shows up we have to catch it(for example : try,catch exception).
