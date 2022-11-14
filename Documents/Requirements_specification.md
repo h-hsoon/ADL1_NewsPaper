@@ -37,8 +37,6 @@ To use this web page, user needs to find the web page in any browser by using th
 
 When a user logs in he/she can see the main page of the web application.
 
-## Current business flow model.
-??
 ## Project outline
 
 This project will make junior developers increasing his/her knowledge and make them work as a team and allow them to contribute a lot to the projects' development.
